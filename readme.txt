@@ -1,0 +1,2 @@
+cd agtdTeZhengGongCheng
+pip install .
